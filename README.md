@@ -1,231 +1,158 @@
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=speech&height=200&color=gradient&text=WE'LL%20COME%20🥳&animation=blinking&fontAlign=36&fontAlignY=36&descAlign=62&reversal=false&textBg=false" width="100%">
+</div>
 
-```
-DONT FORGET TO FORK 🍴 & STAR 🌟 REPO😇
-```
----
-
-> **CURRENT BOT VERSION ➜ `4.5.0 ⚡`**
----
-
-
-
-
-
-  <p align="center">
-<a href="https://github.com/mrfrank-ofc/followers"><img title="Followers" src="https://img.shields.io/github/followers/it t-shirt?color=blue&style=flat-square"></a>
-<a href="https://github.com/sgplayerx/KHISHAM-X-TUHEED-MD/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/sgplayerx/KHISHAM-X-TUHEED-MD?color=blue&style=flat-square"></a>
-<a href="https://github.com/sgplayerx/KHISHAM-X-TUHEED-MD/network/members"><img title="Forks" src="https://img.shields.io/github/forks/sgplayerx/KHISHAM-X-TUHEED-MD?color=blue&style=flat-square"></a>
-<a href="https://https://github.com/sgplayerx/KHISHAM-X-TUHEED-MD/"><img title="Size" src="https://img.shields.io/github/repo-size/sgplayerx/KHISHAM-X-TUHEED-MD?style=flat-square&color=green"></a>
-<a href="https://github.com/sgplayerx/KHISHAM-X-TUHEED-MD/graphs/commit-activity"><img height="20" src="https://img.shields.io/badge/Maintained%3F-yes-green.svg"></a>&nbsp;&nbsp;
-</p>
-<p align='center'>
-</p>
-
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Black+Ops+One&size=50&pause=1000&color=1BAFBAFF&center=true&width=810&height=100&lines=+THANKS FOR CHOOSING+KHISHAM+OFFICIAL;MULTI+DEVICE+WHATSAPP+BOT;CREATED+BY+KHISHAM OFFICIAL" alt="" /></a>
-  </p>
-  
---- 
-
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Blue+Ops+One&size=70&pause=500&color=8A2BE2&center=true&width=1150&height=200&lines=PLEASE-FORK-STAR-BOT-REPO" alt="Typing KHISHAM-X-TAUHEED" /></a>
+  </div>
 <a><img src='https://files.catbox.moe/obeb0y.jpg'/></a>
 
-<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
+<p align="center">
+  <a href="https://github.com.sgplayerx"><img title="Developer" src="https://img.shields.io/badge/Author-SG-MD%20MD-FF00FF.svg?style=big-square&logo=github" /></a>
+</p>
 
-***
+<div align="center">
 
-
-
-
-### 1. FORK THIS REPOSITORY
-
-`FORK 🍴 AND STAR ⭐ IF YOU LIKE THIS BOT`
-
-  <a href="https://github.com/sgplayerxpo56/KHASHIM-X-AFRIDI-MD-BOT/fork"><img title="KHISHAM x TUHEED MD-BOT" src="https://img.shields.io/badge/FORK-KHISAM%20MD-BOTh?color=indigo&style=for-the-badge&logo=stackshare"></a>
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=6000&color=00FF00&background=000000&center=true&vCenter=true&width=600&lines=⚡+KHISHAM+XTAUHEED+MD+BETTER+OPTION;🔥+THE+MOST+POWERFUL+WHATSAPP+BOT;💻+DEVELOPER+BY+MR+sgplayerxpo56;🚀+KHISHAM-X-TUHEED-MD+SOLUTIONS;🌈+FAST+⚡+SECURE+🔒+RELIABLE+✅" alt="Typing Animation">
+</h1>
   
-### 2. GET SESSION ID
+[![WhatsApp Channel](https://img.shields.io/badge/Join-WhatsApp%20Channel-9ACD32?style=big-square&logo=whatsapp)](https://whatsapp.com/channel/0029VaV9bAhLo4hmKJdPDb2d)
+</div>
 
-`IF YOU DON'T HAVE YOUR SESSION_ID SO U CAN GET IT CLICK ON SESSION_ID BUTTON AND PASTE YOUR NUMBER With COUNTRY CODE EXAMPLE:92300xxxxxx THEN YOU CAN GET YOUR SESSION_ID ✠`
+---------
 
 
-> **1. PAIR CODE SESSION ID**
+<p align="center">
+<a href="https://github.com/sgplayerx/KHISHAM-X-TUHEED-MD"><img title="PUBLIC-BOT" src="https://img.shields.io/static/v1?label=Language&message=English&style=square&color=darkyellow"></a> &nbsp;
+  <img src="https://komarev.com/ghpvc/?username=KHISHAMX-MD&label=VIEWS&style=square&color=pink" />
+</p>
+</p> 
+
+<p align="center">
+  <a href="https://github.com/sgplayerx/KHISHAM-X-TUHEED-MD"><img title="Release" src="https://img.shields.io/badge/Release-beta%20v5-cyan.svg?style=for-the-badge&logo=aqua" /></a>
+</p>
+
+
+***KHISHAM-X-TAUHEED-BOT FEATURE ⤵️***
+
+| Menu ⁠➜ | Status Save + Send | Group | ChatBot | Downloading | Antidelete | Ai | Viewonce | Fun | Status Reply | Status Reacts | HeartReacts | Autoreacts | Call Rejecter 
+|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+| Work ➜ |✅|✅|✅|✅|✅|✅|✅|✅|✅|✅|✅|✅|✅|
+
+  
+<a
+href="https://github.com/sgplayerx/KHISHAM-X-TUHEED-MD/graphs/commit-activity"><img height="20" src="https://img.shields.io/badge/Maintained%3F-yes-red.svg"></a>&nbsp;&nbsp;
+</p>
+<p align='center'>
+
+ [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=monospace-ExtraBold&color=blue&lines=𝗙𝗢𝗥𝗞+𝗔𝗡𝗗+𝗦𝗧𝗔𝗥+⭐+𝗥𝗘𝗣𝗢)](https://git.io/typing-svg)
+ <p align="lift">
+ <a href="https://https://github.com/sgplayerx/KHISHAM-X-TUHEED-MD/fork"><img title="KHISHAM-X-TUHEED-MD" src="https://img.shields.io/badge/FORK-KHISHAM-X-TUHEED-MD-h?color=008000&style=for-the-badge&logo=github"></a>
+
+ -------------
+  
+<a href='https://fatal-danice-sgplayerxpo5gv-796578c3.koyeb.app/' target="_blank">
+    <img src='https://img.shields.io/badge/PAIR_CODE-FF0000?style=for-the-badge&logo=matrix&logoColor=yello&labelColor=000000'/>
+  </a></br>
+
+-------------
 
 <a href='https://fatal-danice-sgplayerxpo5gv-796578c3.koyeb.app/' target="_blank">
-  <img alt='Pairing Code' src='https://img.shields.io/badge/Get%20Pairing%20Code-orange?style=for-the-badge&logo=opencv&logoColor=black'/>
-</a>
-<br> 
+    <img src='https://img.shields.io/badge/PAIR_CODE-00FFFF?style=for-the-badge&logo=matrix&logoColor=white&labelColor=000000'/>
+  </a></br>
 
-> **2. PAIR CODE SESSION ID**
+-------------
 
-<a href='https://fatal-danice-sgplayerxpo5gv-796578c3.koyeb.app/' target="_blank">
-  <img alt='Pairing Code' src='https://img.shields.io/badge/Get%20Pairing%20Code-darkpink?style=for-the-badge&logo=opencv&logoColor=black'/>
-</a>
-<br> 
+## _📡 DEPLOYMENT_
 
+<div align="center">
+  <table>
+    <tr>
+      <td><a href="https://dashboard.heroku.com/new-app?template=https://github.com/sgplayerx/KHISHAM-X-TUHEED-MD" target="_blank"><img src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white&labelColor=000000&color=0000FF"/></a></td>
+      <td><a href="https://host.talkdrove.com/share-bot/47" target="_blank"><img src="https://img.shields.io/badge/TalkDrove-A52A2A?style=for-the-badge&logo=github&logoColor=white&labelColor=000000"/></a></td>
+    </tr>
+    <tr>
+      <td><a href="https://app.koyeb.com/services/deploy?type=git&repository=sgplayerx/KHISHAM-X-TUHEED-MD target="_blank"><img src="https://img.shields.io/badge/Koyeb-FF009D?style=for-the-badge&logo=koyeb&logoColor=white&labelColor=000000"/></a></td>
+      <td><a href="https://railway.app/new" target="_blank"><img src="https://img.shields.io/badge/Railway-FF8700?style=for-the-badge&logo=railway&logoColor=white&labelColor=000000"/></a></td>
+    </tr>
+    <tr>
+      <td><a href="https://dashboard.render.com/web/new" target="_blank"><img src="https://img.shields.io/badge/Render-000000?style=for-the-badge&logo=render&logoColor=white&labelColor=000000&color=00ffaa"/></a></td>
+     
 
+**_✠ FREE DEPLOYMENT OF   KHISHAM-X-TUHEED-MD GITHUB WORKFLOW CODE ✠_**
 
----
+```
+name: Node.js CI
 
-### <h2 align="">KHISHAM-x-TUHEED-MD DEPLOYMENT OPTIONS</h2>
+on:
+  push:
+    branches:
+      - main
+  pull_request:
+    branches:
+      - main
 
----
+jobs:
+  build:
 
-### <h4 align="">1. HEROKU</h4>
-<p style="text-align: center; font-size: 1.2em;">
+    runs-on: ubuntu-latest
 
+    strategy:
+      matrix:
+        node-version: [20.x]
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?template=https://github.com/sgplayerx/KHISHAM-X-TUHEED-MD)
-<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
+    steps:
+    - name: Checkout repository
+      uses: actions/checkout@v3
 
-### <h4 align="">3. KOYEB</h4>
-<p style="text-align: center; font-size: 1.2em;">
+    - name: Set up Node.js
+      uses: actions/setup-node@v3
+      with:
+        node-version: ${{ matrix.node-version }}
 
-<p align="">
-<a href="https://app.koyeb.com/services/deploy?type=git&repository=sgplayerx/KHISHAM-X-TUHEED-MD"' target="_blank"><img alt='Heroku' src='https://img.shields.io/badge/-koyeb ‎ deploy-FF009D?style=for-the-badge&logo=koyeb&logoColor=white'/< width=150 height=28/p></a>
-<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
+    - name: Install dependencies
+      run: npm install
 
-### <h4 align="">2. REPLIT DEPLOY</h4>
+    - name: Start application
+      run: npm start
+```
 
-<a href="sgplayerx/KHISHAM-X-TUHEED-MD"><img title="sgplayerx/KHISHAM-X-TUHEED-MD Deploy Replit" src="https://img.shields.io/badge/DEPLOY REPLIT-h?color=black&style=for-the-badge&logo=Replit"></a>
-<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
-
-### <h4 align="">2. PANEL DEPLOY</h4>
-<p style="text-align: center; font-size: 1.2em;">
-  
-<p align="">
-<a href='sgplayerx/KHISHAM-X-TUHEED-MD/archive/refs/heads/main.zip' target="_blank"><img alt='Heroku' src='https://img.shields.io/badge/Panel Zip-000000?style=for-the-badge&logo=bot-hosting&logoColor=white&labelColor=000000&color=blue'/< width=150 height=28/p></a>
-  <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
-  
-
-
-### <h4 align="">2. TALKDROVE FREE</h4>
-<p style="text-align: center; font-size: 1.2em;">
-  
-<p align="">
-<a href='https://talkdrove.com/share-bot/11' target="_blank"><img alt='Heroku' src='https://img.shields.io/badge/-TalkDrove ‎Deploy-6971FF?style=for-the-badge&logo=Github&logoColor=white'/< width=150 height=28/p></a>
-  <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
-
-### <h4 align="">4. RAILWAY</h4>
-<p style="text-align: center; font-size: 1.2em;">
-
-<p align="">
-<a href='https://railway.app/new' target="_blank"><img alt='Heroku' src='https://img.shields.io/badge/-railway deploy-FF8700?style=for-the-badge&logo=railway&logoColor=white'/< width=150 height=28/p></a>
-<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
-
-### <h4 align="">5. RENDER</h4>
-<p style="text-align: center; font-size: 1.2em;">
-  
-<p align="">
-<a href='https://dashboard.render.com/web/new' target="_blank"><img alt='Heroku' src='https://img.shields.io/badge/-Render deploy-black?style=for-the-badge&logo=render&logoColot=white'/< width=150 height=28/p></a>
-<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
-
-### <h4 align="">6. HUGGING FACE</h4>
-<p style="text-align: center; font-size: 1.2em;">
-  
-<p align="">
-<a href='https://app.netlify.com/' target="_blank"><img alt='Netlify' src='https://img.shields.io/badge/-Netlify Deploy-CC00FF?style=for-the-badge&logo=huggingface&logoColor=white'/< width=150 height=28/p></a> </a>
-<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
-<details>
-  
-<b><strong><summary align="" style="color: Yello;">EASIEST METHOD 2</summary></strong></b>
-<p style="text-align: center; font-size: 1.2em;">
- 
-
-## <h3 align=""> HOW TO DEPLOY ON HUGGING FACE</h3>
-<h6 align-"center">
-*❄️ Deploy ali-md On Hugging Face For Free !*
-
-`Specs :`
-- v2 CPU
-- 16GB RAM
-
-> `Steps to deploy`
-
-`Step 1`
-1. Go to hugginface.co/join and create an account and verify your email too.
-
-`Step 2`
-1. Go to https://huggingface.co/spaces/sgplayerx/KHISHAM-X-TUHEED-MD
-
-2. Tap on *three dots* _(as shown in image)_
-
-3. Tap on *duplicate space* _(as shown in image)_
-
-`Step 3`
-1. Fill your details, e.g., Session ID, Bot Name, owner number etc...
-
-2. Tap on *duplicate space shown below*
-
-```After that wait 10 seconds & your have deployed it successfuly  for free 24/7```
-
-> CREDITS PIKABOTZ🎐
-
-*ᴘᴏᴡᴇʀᴇᴅ ʙʏ ᴍr khisam official*</h6>
-
-</details>
-
-<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
+-------
 
 
-### <h4 align="">7. REPLIT</h4>
-<p style="text-align: center; font-size: 1.2em;">
+## ⚠️ _WARNING !_
 
-<p align="">
-<a href='https://replit.com/~' target="_blank"><img alt='Replit' src='https://img.shields.io/badge/-Replit Deploy-1976D2?style=for-the-badge&logo=replit&logoColor=white'/< width=150 height=28/p></a> </a>
-<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
+<div style="background-color: #000000; border-left: 5px solid #ff00ff; padding: 10px; border-radius: 0 15px 15px 0; box-shadow: 0 0 15px #ff00ff;">
+  <h3 style="color: #00ffff; font-family: 'Orbitron', sans-serif;">DISCLAIMER</h3>
+  <p style="color: #ffffff;">This bot is not affiliated with WhatsApp Inc. Use at your own risk. Misuse may result in account bans.</p>
+</div>
 
+## 🗃️ _PROJECT ARCHITECTS_
+<div align="center">
+  <!-- Glowing Header -->
+<p align="center">
+  <img src="https://i.imgur.com/dBaSKWF.gif" height="40" width="100%">
+</p>
+  <a href="https://github.com/sgplayerx">
+    <img src="https://github-readme-stats.vercel.app/api?username=sgplayerx&show_icons=true&theme=dark&border_color=00ffff&title_color=00ffff&icon_color=00ffff" width="400"/>
+  </a>
+</div>
+<!-- Glowing Header -->
+<p align="center">
+  <img src="https://i.imgur.com/dBaSKWF.gif" height="40" width="100%">
+</p>
 
-## 👑 PROJECT OWNER 
-HII DEARS FRIENDS IF YOU WANT ANY HELP SO YOU CAN CONTACT↘︎ WITH ME WIA WHATSAPP ITS ME ALI࿐➺
+## 🤖 _KHISHAM x Md STATUS_
 
-<p align="">
-<a href='https://wa.me/+923435852520?text=*ʜɪɪ+khisham+ɪ+ɴᴇᴇᴅ+ʜᴇʟᴘ!.+ɪ+ᴍᴇssᴀɢᴇᴅ+ʏᴏᴜ+ғʀᴏᴍ+ᴀʟɪ-ᴍᴅ+ʀᴇᴘᴏ!!*' target="_blank"><img alt='Replit' src='https://img.shields.io/badge/ Whatsapp -25D366?style=for-the-badge&logo=whatsapp&logoColor=white'/< width=150 height=28/p></a> </a>
-<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
+```diff
++ Project Status: Active
+! Version: V.1 Neon Edition
+# License: BSD 3-Clause
+```
 
-
-## 🪀 WHATSAPP CHANNEL 
-STAY CONNECTED WITH THE LATEST UPDATES AND COMMUNITY BY JOINING OUR OFFICIAL WHATSAPP GROUP AND CHANNEL. YOU CAN ALSO CONTACT THE OWNER DIRECTLY.
-
-[![WhatsApp Channel](https://img.shields.io/badge/JOIN-WHATSAAP%20CHANNEL-25D366?style=for-the-badge&logo=whatsapp)](https://whatsapp.com/channel/0029VaV9bAhLo4hmKJdPDb2d)
-
-## 🪀 WHATSAPP GROUP
-JOINING OUR OFFICIAL WHATSAPP GROUP AND CHANNEL. YOU CAN ALSO CONTACT THE OWNER DIRECTLY.
-
-[![WhatsApp Group](https://img.shields.io/badge/JOIN-WHATSAAP%20GROUP-25D366?style=for-the-badge&logo=whatsapp)](https://chat.whatsapp.com/L5h9y3ExigA3DWuNPfMEZd?mode=ems_copy_t)
-
- 
-
-
-***
-
-## <h2 align="left">⚠️ REMINDER </h2>
-<p style="text-align: center; font-size: 1.2em;">
-
-- **DISCLAIMER:** THIS BOT IS NOT AFFILIATED WITH `WhatsApp Inc.`. USE IT AT YOUR OWN RISK.
-- MISUSING THE BOT MAY RESULT IN YOUR `WhatsApp` ACCOUNT BEING BANNED. NOTE THAT YOU CAN ONLY UNBAN YOUR ACCOUNT ONCE.
-- I AM NOT RESPONSIBLE FOR ANY BANS OR MISUSE OF THE BOT. PLEASE KEEP THIS WARNING IN MIND BEFORE PROCEEDING.
-
----
-
-<h2 align="left">ℹ️ NOTICE</h2>
-<p style="text-align: center; font-size: 1.2em;">
-  NOT FOR SALE - IF ANY PLUGIN'S CODE IS OBFUSCATED, YOU DO NOT HAVE PERMISSION TO EDIT IT IN ANY FORM. PLEASE REMEMBER TO GIVE CREDIT IF YOU ARE USING OR RE-UPLOADING MY PLUGINS/FILES. WISHING YOU A WONDERFUL DAY AHEAD!</p>
-  
----
-
- <br>
-<h2 align="center"> ⚠️ DISCLAIMER ⚠️
- </h2>
- 
- ---
-
-<h3 align="center"> DON'T COPY WITHOUT PERMISSION KHISHAM x TUHEED MD-BOT
+<h3 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=6000&color=FFFFFF&background=000000&center=true&vCenter=true&width=600&lines=+KHISHAM+X+MD+QUALITY+EDITION+BY+MR+sgplayerx/KHISHAM-X-TUHEED-MD⚡+THE+FUTURE+OF+WHATSAPP+BOT+IS+HERE" alt="Footer Animation">
 </h3>
 
-<br>
 
-```
-THANK YOU SG PLAYER X HACKER, & YOU SUPPORTERS
-```
------
-<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
-
-------
+<h1> ℕ𝕆 𝕃𝕆𝕍𝔼 💔 ℕ𝕆 𝕊𝕋ℝ𝔼𝕊𝕊 <img src="https://files.catbox.moe/obeb0y.jpg" width="45"> </h1>
